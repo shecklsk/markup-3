@@ -1,0 +1,36 @@
+/* Resume style sheet */
+
+h1{
+    color:rgb(97, 41, 1);
+    font-family:system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+
+h3{
+    color:saddlebrown;
+    font-family:Verdana, Geneva, Tahoma, sans-serif
+}
+
+.job-title{
+    color: rgb(177, 147, 107);
+    font-family:Georgia, 'Times New Roman', Times, serif
+}
+
+ul{
+    color:rgb(110, 93, 71);
+    list-style-type: lower-roman;
+}
+
+.school{
+    margin-top:0;
+    margin-bottom:0;
+    color:rgb(128, 90, 31);
+}
+
+.info{
+    color:rgb(152, 75, 7)
+}
+
+.contact{
+    color:rgb(97, 50, 15);
+    font-family:cursive;
+}
